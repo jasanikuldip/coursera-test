@@ -1,0 +1,25 @@
+#top {
+    background-color: black;
+    border-radius: 0;
+}
+
+#brand {
+    color: white;
+    font-size: 1.5em;
+    padding-left: 30px;
+}
+
+.box {
+    border: 1px solid black;
+    background-color: lightgray;
+    margin-bottom: 32px;
+    padding: 0px 12px 12px 12px;
+}
+
+.pd-16 {
+    padding: 32px;
+}
+
+#menu {
+    margin-top: 32px;
+}
